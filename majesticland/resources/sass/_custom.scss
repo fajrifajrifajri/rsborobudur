@@ -1,0 +1,69 @@
+p{
+    font-family: "Open Sans", sans-serif;
+    font-size: 17px;
+    line-height: 32px;
+}
+
+// Navbar
+
+.bg-nav{
+    background-color: #F3F3F3;
+}
+
+// Thumbnail
+
+.thumbnail{
+    color: #242424;
+}
+
+.thumbnail-header{
+    font-family: 'Oswald', sans-serif;
+}
+
+.thumbnail-p{
+    font-family: 'Open Sans', sans-serif;
+}
+
+// Post
+
+.post-header{
+    margin-top: 4rem;
+}
+
+.post-img{
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+}
+
+.post-date{
+    text-align: right;
+}
+
+.post-p-header{
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.post-p-img{
+    width: 100%;
+}
+
+.post-p-img-desc{
+    margin-bottom: 1rem;
+    font-family: "Open Sans", sans-serif;
+    font-size: 17px;
+    line-height: 32px;
+    text-align: center;
+}
+
+.quotes{
+    font-size: 2rem;
+    text-align: center;
+}
+
+#indonesia{
+    display: inline-block;
+    background: linear-gradient(to right, red 0%, red 50%, #7e8479 50%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
